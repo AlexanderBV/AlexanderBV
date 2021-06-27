@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @AlexanderBV.
 - 🌐 I’m web developer, I know the languages:
-   - ✔️ PHP with the framework Laravel 🚀.
-   - ✔️ Java, Java EE with the framework Hibernate 💤.
-   - ✔️ Javascript with the framework Jquery, VueJS 🍏.
+  - ✔️ PHP with the framework Laravel 🚀.
+  - ✔️ Java, Java EE with the framework Hibernate 💤.
+  - ✔️ Javascript with the framework Jquery, VueJS 🍏.
 - 🌱 I’m currently learning. 
-   ✔️ NodeJS.
-   ✔️ ReacJS.
-   ✔️ Flutter.
+  - ✔️ NodeJS.
+  - ✔️ ReacJS.
+  - ✔️ Flutter.
 - 💞️ I am looking to collaborate on Laravel, Vue projects
 - 📫 How to reach me edwinbautista@upeu.edu.pe
 <!---
